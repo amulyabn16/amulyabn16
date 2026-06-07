@@ -1,6 +1,4 @@
-# 💫 About Me:
-A B.Tech Student<br>Currently exploring programming languages and IoT<br>
-# 💫 About Me:
+#  About Me:
 B.Tech Student in CSE(IoT-AI)<br>Learning programming languages and IoT Technologies
 
 
